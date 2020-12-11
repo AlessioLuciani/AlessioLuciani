@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Alessio Luciani</h1>
-<h3 align="center">Computer Science student at Sapienza University of Rome</h3>
+<h3 align="center">MSc Computer Science student at Sapienza University of Rome</h3>
 
 
 <p align="center">
@@ -18,10 +18,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessioluciani&layout=compact&hide=html" alt="alessioluciani" /></p>
 -->
 
+<br>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alessioluciani&show_icons=true" alt="alessioluciani" /></p>
 
 
-
+<br>
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alessioluciani" alt="alessioluciani" /></a> </p>-->
