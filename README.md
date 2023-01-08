@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋🏼, I'm Alessio Luciani</h1>
+<!--<h1 align="center">Hi there 👋🏼, I'm Alessio Luciani</h1> -->
 <!--<h3 align="center">MSc Computer Science student at Sapienza University of Rome</h3>-->
 
-
+<!--
 <p align="center">
 <a href="https://twitter.com/lucianialessio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lucianialessio" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/alessioluciani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alessioluciani" height="30" width="30" /></a>
@@ -9,6 +9,7 @@
 <a href="https://kaggle.com/alessioluciani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="alessioluciani" height="30" width="40" /></a>
 <a href="https://instagram.com/alessio_luciani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alessio_luciani" height="30" width="30" /></a>
 </p>
+-->
 
 <!--
 <br>
